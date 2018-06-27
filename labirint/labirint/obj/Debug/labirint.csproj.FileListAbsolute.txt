@@ -1,0 +1,6 @@
+c:\users\andrian\documents\visual studio 2013\Projects\labirint\labirint\bin\Debug\labirint.exe.config
+c:\users\andrian\documents\visual studio 2013\Projects\labirint\labirint\bin\Debug\labirint.exe
+c:\users\andrian\documents\visual studio 2013\Projects\labirint\labirint\bin\Debug\labirint.pdb
+c:\users\andrian\documents\visual studio 2013\Projects\labirint\labirint\obj\Debug\labirint.exe
+c:\users\andrian\documents\visual studio 2013\Projects\labirint\labirint\obj\Debug\labirint.pdb
+c:\users\andrian\documents\visual studio 2013\Projects\labirint\labirint\obj\Debug\labirint.csprojResolveAssemblyReference.cache
